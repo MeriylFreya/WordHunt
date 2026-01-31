@@ -1,5 +1,5 @@
 # 🔍 Word Search Solver - AI Powered
-wordsearchsolver.netlify.app
+https://wordhunt.netlify.app
 
 ## What is This Project?
 
